@@ -1,0 +1,33 @@
+#container {
+  font-family:"Calibri", Arial, sans-serif; 
+}
+h1{
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(17, 0, 114);
+  margin: 17px;
+  padding-bottom: 15px;
+}
+button {
+  margin-left: 15px;
+  color: white;
+  padding: 6px;
+}
+#checkIn{
+  background-color: rgb(155, 15, 15);
+}
+#addToLine {
+  background-color: rgb(1, 92, 16);
+}
+#fastTrack {
+  background-color: rgb(201, 179, 53);
+}
+h2 {
+  margin-bottom: 0;
+  margin-top: 4px;
+  padding-bottom: 0;
+  font-size: 15px;
+}
+#line {
+  margin-top: 0;
+}
